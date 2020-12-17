@@ -1,5 +1,5 @@
 import React from 'react'
-import "./App.css"
+import "./App.scss"
 import Tours from "./Container/Tours/Tours"
 
 const app = () => (
